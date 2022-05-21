@@ -1,6 +1,6 @@
 <template>
     <div class="Home">
-      我的地盘
+      1
     </div>
 </template>
 
@@ -20,11 +20,4 @@ export default {
 </script>
 
 <style scoped lang="scss">
-
-
-
-
-
-
-
 </style>
