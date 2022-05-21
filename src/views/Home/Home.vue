@@ -24,5 +24,6 @@ export default {
     width: 100%;
     height: 280px;
   }
+  
 </style>
 
