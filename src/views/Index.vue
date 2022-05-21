@@ -5,13 +5,17 @@
         <router-view />
       </keep-alive>
     </div>
+    <footerview></footerview>
   </div>
 </template>
 
 <script>
+import footerview from '../components/footer.vue'
 export default {
   name: 'index',
-  components: {},
+  components: {
+    footerview
+  },
   data () {
     return {}
   },
